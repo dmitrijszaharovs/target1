@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+# target1
+Target repo to receive source1 data
+=======
+# source1
+Source repo to merge into target
+>>>>>>> vi_ddl/main
